@@ -1,8 +1,8 @@
-# GK2-Balance-v1
+# GK2-Balance-v2
 * **Source**: Update 32 Hotfix 6
 
 ## Base Weapon
-* **Max Ammo**: 350 > 450
+* **Max Ammo**: 350 > 420
   * **Value Offset**: 11886
   * **Type**: Int
   * **File**: `\FSD\Content\WeaponsNTools\AssaultRifle\WPN_AssaultRifle.uexp`

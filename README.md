@@ -16,5 +16,5 @@ For each parameter changed, you should list:
 * the value offset (decimal)
 * the path of the modded file
 
-### A Packer folder
+### A Packer Zipped folder
 This folder will include all uncooked files, this is basically the mod in its pre-packed form. It should contain the modded files and the necessary folders only. The goal of this folder is to save time to tweak value when working on the next version of the balance mod.

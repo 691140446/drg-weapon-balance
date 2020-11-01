@@ -16,9 +16,12 @@
   * **Value Offset**: 11533
   * **Type**: Int
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs.uexp`
-* **Base Spread**: 100% > 80% Don’t know how to mod it yet
+```
+Planned change
+* **Base Spread**: 100% > 80%
   * **Value Offset**: ???
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs.uexp`
+```
 
 ## Gear Modification – Tier 1 A – Expanded Ammo Bags
 * **Max Ammo**: 100 > 60

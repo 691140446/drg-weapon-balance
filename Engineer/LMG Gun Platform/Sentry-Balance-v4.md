@@ -1,4 +1,4 @@
-# Sentry-Balance-v3
+# Sentry-Balance-v4
 * **Source**: Update 32 Hotfix 6
 
 ## "Warthog" Auto 210 – Gear Modification – Tier 5 A – Turret Whip
@@ -16,7 +16,7 @@
   * **File**: `FSD\Content\WeaponsNTools\SentryGun\SentryGun_Engineer\PRJ_SentryOvercharge_Projectile.uexp`
 
 ## "Stubby" Voltaic SMG – Overclock – Turret Arc
-* **Duration (InitialLifeSpan)**: 15 > 30
+* **Duration (InitialLifeSpan)**: 15 > 20
   * **Value Offset**: 551
   * **File**: `FSD\Content\WeaponsNTools\SentryGun\BP_EletrocutedSentry.uexp`
 
@@ -24,6 +24,3 @@
 * **Damage**: 40 > 60
   * **Value Offset**: 1261
   * **File**: `FSD\Content\WeaponsNTools\SentryGun\BP_TurretEMPDischarge-UAsset.json`
-* **Cooldown**: 1,5 > 1
-  * **Value Offset**: 13385
-  * **File**: `DFSD\Content\WeaponsNTools\SentryGun\SentryGun_Engineer\BP_SentryGun_Redeployable-UAsset.json`

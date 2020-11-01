@@ -1,4 +1,4 @@
-# NUK17-Balance-v2.md
+# NUK17-Balance-v3.md
 * **Source**: Update 32 Hotfix 6
 * **Note**: This mod change the shot cost from 2 to 1 and as a consequence all Max Ammo, Clip Size and Fire Rate value will be halved.
 * **Note 2**: The mod isn’t done yet, only the readme is up for now.
@@ -16,12 +16,9 @@
   * **Value Offset**: 11533
   * **Type**: Int
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs.uexp`
-```
-Planned change
-* **Base Spread**: 100% > 80%
-  * **Value Offset**: ???
+* **Max Horizontal Spread (i.e. Base Spread)**: 36 > 29 <!-- ~ 100% > 80% Base Spread -->
+  * **Value Offset**: 16804
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs.uexp`
-```
 
 ## Gear Modification – Tier 1 A – Expanded Ammo Bags
 * **Max Ammo**: 100 > 60

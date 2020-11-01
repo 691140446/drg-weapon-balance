@@ -1,4 +1,4 @@
-# NUK17-Balance-v1.md
+# NUK17-Balance-v2.md
 * **Source**: Update 32 Hotfix 6
 * **Note**: This mod change the shot cost from 2 to 1 and as a consequence all Max Ammo, Clip Size and Fire Rate value will be halved.
 * **Note 2**: The mod isn’t done yet, only the readme is up for now.

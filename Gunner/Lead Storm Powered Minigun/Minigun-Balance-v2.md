@@ -1,4 +1,4 @@
-# Minigun-Balance-v1
+# Minigun-Balance-v2
 * **Source**: Update 32 Hotfix 6
 
 ## Overclock – Bullet Hell

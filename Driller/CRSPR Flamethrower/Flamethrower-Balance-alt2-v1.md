@@ -1,5 +1,10 @@
-# Flamethrower-Balance-alt-XYber-v1
+# Flamethrower-Balance-alt2-v1
 * **Source**: Update 32 Hotfix 8
+
+## Gear Modification – Tier 4 A – It Burns!
+* **Fear**: 0.13 > 0.33
+  * **Value Offset**: 66
+  * **File**: `FSD\Content\WeaponsNTools\FlameThrower\UPG_Flamethrower_D_Fear.uexp`
 
 ## Overclock – Face Melter
 * **Damage**: 2 > 5

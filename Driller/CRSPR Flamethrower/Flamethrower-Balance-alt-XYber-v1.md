@@ -1,4 +1,4 @@
-# Flamethrower-Balance-alt2-v1
+# Flamethrower-Balance-alt-XYber-v1
 * **Source**: Update 32 Hotfix 8
 
 ## Gear Modification – Tier 4 A – It Burns!

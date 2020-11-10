@@ -1,5 +1,5 @@
-# Flamethrower-Balance-alt-Silaise-v3
-* **Source**: Update 32 Hotfix 6
+# Flamethrower-Balance-alt-Silaise-v4
+* **Source**: Update 32 Hotfix 8
 
 ## Gear Modification – Tier 4 A – It Burns!
 * **Fear**: 0.13 > 0.33
@@ -13,6 +13,3 @@
 * **Rate of Fire (Additive)**: 1.8 > 0.9 <!-- 30% > 15% -->
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\FlameThrower\Overclocks\OC_BonusesAndPenalties\Bonus_RoF_Flamethrower.uexp`
-* **Max Ammo**: -75 > -50
-  * **Value Offset**: 25
-  * **File**: `FSD\Content\WeaponsNTools\FlameThrower\Overclocks\OC_BonusesAndPenalties\Penalty_Ammo-75_Flamethrower.uexp`

@@ -8,7 +8,7 @@
   * **File**: `FSD\Content\WeaponsNTools\BoltActionRifle\WPN_M1000.uexp`
 
 ## Overclock – Hipster
-* **Max Ammo (Multiplier)**: 1.75 > 2.00
+* **Max Ammo (Multiplier)**: 1.75 > 1.25
   * **Variable Name**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\BoltActionRifle\Overclocks\OC_BonusesAndPenalties\OC_Bonus_Ammo_20`

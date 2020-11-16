@@ -1,4 +1,4 @@
-# M1000-Balance-v3
+# M1000-Balance-v4
 * **Source**: Update 32 Hotfix 9
 
 ## Base Weapon
@@ -16,7 +16,7 @@
   * **Variable Name**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\BoltActionRifle\Overclocks\OC_BonusesAndPenalties\OC_Penalty_Damage_15_M1000.uexp`
-* **Spread per Shot**: -0.3 > -0.9
+* **Spread per Shot**: -0.3 > -0.6
   * **Variable Name**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\BoltActionRifle\Overclocks\OC_BonusesAndPenalties\OC_Bonus_SpreadPerShot2_M1000.uexp`

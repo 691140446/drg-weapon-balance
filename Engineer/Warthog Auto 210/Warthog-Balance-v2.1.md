@@ -1,4 +1,4 @@
-# Warthog-Balance-v2
+# Warthog-Balance-v2.1
 * **Source**: Update 32 Hotfix 9
 
 ## Base Weapon

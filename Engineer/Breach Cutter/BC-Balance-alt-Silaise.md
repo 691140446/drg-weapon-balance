@@ -1,4 +1,4 @@
-# BC-Balance-alt-Silaise-v3
+# BC-Balance-alt-Silaise-v4
 * **Source**: Update 32 Hotfix 9
 
 ## Gear Modification – Tier 2 A – Expanded Ammo Bags
@@ -6,6 +6,12 @@
   * **Variable Name**: Amount
   * **Value Offset**: 25
   * **File**: `U32H6\FSD\Content\WeaponsNTools\LineCutter\UPG_LineCutter_B_Ammo1`
+
+## Gear Modification – Tier 5 A – Explosive Goodbyes
+* **Radial Damage**: 40 > 100
+  * **Variable Name**: RadialDamage
+  * **Value Offset**: 26263
+  * **File**: `U32H6\FSD\Content\WeaponsNTools\LineCutter\PRJ_LineCutter2`
 
 ## Overclock – Return to Sender
 * **Max Ammo**: -6 > -3

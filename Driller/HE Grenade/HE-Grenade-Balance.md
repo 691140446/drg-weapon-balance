@@ -12,7 +12,7 @@
   * **Property**: RadialDamage
   * **Value Offset**: 526
   * **File**: `FSD\Content\WeaponsNTools\Grenades\HighExplosive\Grenade_HighExplosive`
-  > This change allows to  exceed the breakpoint to kill Glyphid Grunt Slasher, killing them in an area slighly bigger than the Maximum Damage Radius (2-2.1m).
+  > This change allows to  exceed the breakpoint to kill Glyphid Grunt Slasher, killing them in an area slighly bigger than the Maximum Damage Radius (2-2.1m).<br>
   > 140×1.3 = 182 > 177.3
 * **Minimum Area Damage**: 0.2 > 0.35
   * **Class**: DamageComponent

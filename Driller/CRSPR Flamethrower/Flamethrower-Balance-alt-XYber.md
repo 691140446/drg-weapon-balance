@@ -24,4 +24,4 @@
   * **Property**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\FlameThrower\Overclocks\OC_BonusesAndPenalties\Penalty_Ammo-75_Flamethrower`
-> The Face Melter changes aim to increase the DPS output without concern for the ammo economy.
+  > The Face Melter changes aim to increase the DPS output without concern for the ammo economy.

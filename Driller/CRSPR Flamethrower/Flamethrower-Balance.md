@@ -19,4 +19,4 @@
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\FlameThrower\Overclocks\OC_BonusesAndPenalties\Bonus_RoF_Flamethrower`
-> The Face Melter changes aim to increase the damage output while keeping a good ammo economy.
+  > The Face Melter changes aim to increase the damage output while keeping a good ammo economy.

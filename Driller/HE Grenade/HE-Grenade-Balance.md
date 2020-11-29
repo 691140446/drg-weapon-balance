@@ -1,4 +1,4 @@
-# HE-Grenade-Balance-v1
+# HE-Grenade-Balance-v2
 * **Source**: Update 32 Hotfix 10
 
 ## Base Grenade
@@ -6,7 +6,11 @@
   * **Variable Name**: MaxGrenades
   * **Value Offset**: 279
   * **File**: `FSD\Content\WeaponsNTools\Grenades\HighExplosive\Grenade_HighExplosive`
-* **Minimum Area Damage**: 0.2 > 0.5
+* **Area Damage**: 130 > 140
+  * **Variable Name**: RadialDamage
+  * **Value Offset**: 526
+  * **File**: `FSD\Content\WeaponsNTools\Grenades\HighExplosive\Grenade_HighExplosive`
+* **Minimum Area Damage**: 0.2 > 0.35
   * **Variable Name**: MinDamagePct
   * **Value Offset**: 555
   * **File**: `FSD\Content\WeaponsNTools\Grenades\HighExplosive\Grenade_HighExplosive`

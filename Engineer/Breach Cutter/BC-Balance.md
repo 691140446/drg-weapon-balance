@@ -1,38 +1,44 @@
-# BC-Balance-alt-Silaise-v5
-* **Source**: Update 32 Hotfix 9
+# BC-Balance-alt-Silaise-v6
+* **Source**: Update 32 Hotfix 10
 
 ## Gear Modification – Tier 2 A – Expanded Ammo Bags
 * **Max Ammo**: 6 > 3
-  * **Variable Name**: Amount
+  * **Class**: AmmoDrivenWeaponUpgrade
+  * **Property**: Amount
   * **Value Offset**: 25
-  * **File**: `U32H6\FSD\Content\WeaponsNTools\LineCutter\UPG_LineCutter_B_Ammo1`
+  * **File**: `FSD\Content\WeaponsNTools\LineCutter\UPG_LineCutter_B_Ammo1`
 
 ## Gear Modification – Tier 5 A – Explosive Goodbyes
-* **Radial Damage**: 40 > 120
-  * **Variable Name**: RadialDamage
+* **Area Damage**: 40 > 120
+  * **Class**: DamageComponent
+  * **Property**: RadialDamage
   * **Value Offset**: 26263
-  * **File**: `U32H6\FSD\Content\WeaponsNTools\LineCutter\PRJ_LineCutter2`
+  * **File**: `FSD\Content\WeaponsNTools\LineCutter\PRJ_LineCutter2`
 
 ## Overclock – Return to Sender
 * **Max Ammo**: -6 > -3
-  * **Variable Name**: Amount
+  * **Class**: AmmoDrivenWeaponUpgrade
+  * **Property**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Penalty_Ammo-4_LineCutter`
   > File shared with Inferno
 
 ## Overclock – Inferno
 * **Max Ammo**: -6 > -3
-  * **Variable Name**: Amount
+  * **Class**: AmmoDrivenWeaponUpgrade
+  * **Property**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Penalty_Ammo-4_LineCutter`
   > File shared with Return to Sender
 
 ## Overclock – Spinning Death
-* **Max Ammo (Multiplicative)**: 0.5 > 0.6
-  * **Variable Name**: Amount
+* **Max Ammo (Multiplier)**: 0.5 > 0.6
+  * **Class**: AmmoDrivenWeaponUpgrade
+  * **Property**: Amount
   * **Value Offset**: 25
-  * **File**: `CJFSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Penalty_AmmoBig_Linecutter`
-* **Damage multiplier**: 0.2 > 0.24
-  * **Variable Name**: Amount
+  * **File**: `FSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Penalty_AmmoBig_Linecutter`
+* **Damage per Tick (Multiplier)**: 0.2 > 0.24
+  * **Class**: DamageUpgrade
+  * **Property**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Penalty_DMGBig_LineCutter`

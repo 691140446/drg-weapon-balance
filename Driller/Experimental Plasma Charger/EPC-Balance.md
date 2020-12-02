@@ -4,7 +4,7 @@
 > Increasing the Charged Shot damage by 20% allows to reach the Glyphid Grunt breakpoint with a full damage build and using Overcharger on top of that allows to reach the Mactera Spawn breakpoint thanks to the change on the damage conversion.<br>
 > Alternatively the reduced cost of the charged shot allows to go for a build with lower damage and a wider radius, chaining two shot since the weapon doesn’t overheat instantly.
 ## Base Weapon
-* **Heat Per Charged Shot**: 1.0 > 0.7
+* **Heat per Charged Shot**: 1.0 > 0.7
   * **Class**: WPN_ChargeBlaster_C
   * **Property**: HeatPerChargedShot
   * **Value Offset**: 17553

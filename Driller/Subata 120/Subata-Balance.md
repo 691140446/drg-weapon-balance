@@ -7,3 +7,4 @@
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\Pistol\Overclocks\OC_BonusesAndPenalties\OC_Penalty_RoF_Pistol`
+  > This change aim to improve the feeling of the weapon with this Overclock equiped.

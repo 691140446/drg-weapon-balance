@@ -7,6 +7,7 @@
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\FlameThrower\UPG_Flamethrower_D_Fear`
+  > This increases the fear chance per fuel spent from 6.5% to 10% versus Glyphid Grunts and Glyphid Praetorians, increasing the chance to Fear them from ~33% to ~47% with the base flow rate.
 
 ## Overclock – Face Melter
 * **Damage**: 2 > 4

@@ -1,4 +1,4 @@
-# BC-Balance-alt-Silaise-v6
+# BC-Balance-alt-Silaise-v7
 * **Source**: Update 32 Hotfix 10
 
 ## Gear Modification – Tier 2 A – Expanded Ammo Bags
@@ -14,6 +14,13 @@
   * **Property**: RadialDamage
   * **Value Offset**: 26263
   * **File**: `FSD\Content\WeaponsNTools\LineCutter\PRJ_LineCutter2`
+
+## Overclock – Stronger Plasma Current
+* **Damage per Tick (Additive)**: 1 > 2
+  * **Class**: DamageUpgrade
+  * **Property**: Amount
+  * **Value Offset**: 25
+  * **File**: `FSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Bonus_DMG+1_LineCutter`
 
 ## Overclock – Return to Sender
 * **Max Ammo**: -6 > -3

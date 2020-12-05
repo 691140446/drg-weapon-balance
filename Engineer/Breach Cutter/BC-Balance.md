@@ -1,4 +1,4 @@
-# BC-Balance-alt-Silaise-v7
+# BC-Balance-v7
 * **Source**: Update 32 Hotfix 11
 
 ## Gear Modification – Tier 2 A – Expanded Ammo Bags

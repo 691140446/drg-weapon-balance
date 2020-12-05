@@ -1,5 +1,5 @@
-# BRT7-Balance-v4
-* **Source**: Update 32 Hotfix 10
+# BRT7-Balance-v5
+* **Source**: Update 32 Hotfix 11
 
 ## Overclock – Full Chamber Seal
 * **Damage**: 1 > 2

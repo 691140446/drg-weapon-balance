@@ -1,5 +1,5 @@
-# Boomstick-Balance-v2
-* **Source**: Update 32 Hotfix 6
+# Boomstick-Balance-v3
+* **Source**: Update 32 Hotfix 11
 
 ## Overclock – Shaped Shells
 * **Base Spread**: 0.65 > 0.55

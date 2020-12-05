@@ -1,5 +1,5 @@
 # Flamethrower-Balance-v6
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Gear Modification – Tier 4 A – It Burns!
 * **Fear Factor**: 0.13 > 0.2

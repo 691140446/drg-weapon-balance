@@ -1,5 +1,5 @@
 # HE-Grenade-Balance-v2
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Base Grenade
 * **Max Grenades**: 4 > 6

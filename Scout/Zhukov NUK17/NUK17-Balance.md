@@ -1,5 +1,5 @@
 # NUK17-Balance-v6
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Base Weapon
 * **Shot Cost**: 2 > 1

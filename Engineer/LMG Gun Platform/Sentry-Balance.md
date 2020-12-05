@@ -1,5 +1,5 @@
 # Sentry-Balance-v6
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## "Warthog" Auto 210 – Gear Modification – Tier 5 A – Turret Whip
 * **Radius**: 150 > 200

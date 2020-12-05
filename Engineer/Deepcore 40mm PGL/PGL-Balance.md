@@ -1,5 +1,5 @@
 # PGL-Balance-v3
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Base Weapon
 * **Area Damage**: 110 > 125

@@ -1,5 +1,5 @@
 # Stubby-Balance-v2
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Overclock – Turret EM Discharge
 * **Damage**: -3 > -2

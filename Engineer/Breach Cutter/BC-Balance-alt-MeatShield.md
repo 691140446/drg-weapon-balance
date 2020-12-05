@@ -1,5 +1,5 @@
 # BC-Balance-alt-MeatShield-v2
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Overclock – Spinning Death
 * **Plasma Beam Width**: 150 > 100

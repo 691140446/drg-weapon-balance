@@ -1,5 +1,5 @@
 # GK2-Balance-v4
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Base Weapon
 * **Max Ammo**: 350 > 420

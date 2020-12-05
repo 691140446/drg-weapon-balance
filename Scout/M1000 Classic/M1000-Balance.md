@@ -1,5 +1,5 @@
 # M1000-Balance-v5
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ## Base Weapon
 * **Weakpoint Damage Multiplier**: 1.1 > 1.2

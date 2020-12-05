@@ -2,7 +2,7 @@
 * **Source**: Update 32 Hotfix 11
 
 ## Overclock – Chain Hit
-* **Ricochet Chance**: 0.33 > 0.66
+* **Ricochet Chance (Weakpoint only)**: 0.33 > 0.66
   * **Class**: HitscanBaseUpgrade
   * **Property**: Amount
   * **Value Offset**: 66

@@ -3,7 +3,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
 
 # Driller
 ## Flamethrower-Balance-v6
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Gear Modification – Tier 4 A – It Burns!
 * **Fear Factor**: 0.13 > 0.2
@@ -44,8 +44,8 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\Pistol\Overclocks\OC_BonusesAndPenalties\OC_Penalty_RoF_Pistol`
   > This change aim to improve the feeling of the weapon with this Overclock equiped.
 
-## EPC-Balance-v6
-* **Source**: Update 32 Hotfix 10
+## EPC-Balance-v7
+* **Source**: Update 32 Hotfix 11
 > The changes on this weapon are heavily focused on the Flying Nightmare mod.<br>
 > Increasing the Charged Shot damage by 20% allows to reach the Glyphid Grunt breakpoint with a full damage build and using Overcharger on top of that allows to reach the Mactera Spawn breakpoint thanks to the change on the damage conversion.<br>
 > Alternatively the reduced cost of the charged shot allows to go for a build with lower damage and a wider radius, chaining two shot since the weapon doesn’t overheat instantly.
@@ -91,7 +91,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   > This change gives Overcharger a better ammo economy to make it usable on more builds.
 
 ## HE-Grenade-Balance-v2
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Base Grenade
 * **Max Grenades**: 4 > 6
@@ -120,7 +120,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
 
 # Engineer
 ## Warthog-Balance-v3
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Base Weapon
 * **Max Ammo**: 90 > 105
@@ -163,7 +163,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\CombatShotgun\Overclocks\OC_BonusesAndPenalties\OC_Bonus_Damage+1_CombatShotgun`
 
 ## Stubby-Balance-v2
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Overclock – Turret EM Discharge
 * **Damage**: -3 > -2
@@ -173,7 +173,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\SMG\Overclocks\OC_BonusesAndPenalties\Penlaty_DMG-3_SMG`
 
 ## PGL-Balance-v3
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Base Weapon
 * **Area Damage**: 110 > 125
@@ -216,8 +216,8 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\GrenadeLauncher\Overclocks\OC_BonusAndPenalty\Bonus_Ammo4_PGL`
 
-## BC-Balance-alt-Silaise-v7
-* **Source**: Update 32 Hotfix 10
+## BC-Balance-v7
+* **Source**: Update 32 Hotfix 11
 
 ### Gear Modification – Tier 2 A – Expanded Ammo Bags
 * **Max Ammo**: 6 > 3
@@ -269,7 +269,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\LineCutter\Overclocks\OC_BonusesAndPenalties\Penalty_DMGBig_LineCutter`
 
 ## Sentry-Balance-v6
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### "Warthog" Auto 210 – Gear Modification – Tier 5 A – Turret Whip
 * **Radius**: 150 > 200
@@ -321,7 +321,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
 
 # Gunner
 ## Minigun-Balance-v5
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Overclock – Bullet Hell
 * **Ricochet Chance**: 0.5 > 0.75
@@ -340,8 +340,8 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\Revolver\Overclocks\OC_BonusesAndPenalties\OC_Bonus_ChainHitChance`
 
-## BRT7-Balance-v4
-* **Source**: Update 32 Hotfix 10
+## BRT7-Balance-v5
+* **Source**: Update 32 Hotfix 11
 
 ### Overclock – Full Chamber Seal
 * **Damage**: 1 > 2
@@ -372,7 +372,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
 
 # Scout
 ## GK2-Balance-v4
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Base Weapon
 * **Max Ammo**: 350 > 420
@@ -408,7 +408,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\Overclocks\OC_BonusesAndPenalties\OC_Penalty_DMG_25P_Assault`
 
 ## M1000-Balance-v5
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Base Weapon
 * **Weakpoint Damage Multiplier**: 1.1 > 1.2
@@ -451,8 +451,8 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\BoltActionRifle\Overclocks\OC_BonusesAndPenalties\OC_Penalty_FocusSpeed_M1000`
 
-## Boomstick-Balance-v2
-* **Source**: Update 32 Hotfix 6
+## Boomstick-Balance-v3
+* **Source**: Update 32 Hotfix 11
 
 ### Overclock – Shaped Shells
 * **Base Spread**: 0.65 > 0.55
@@ -467,7 +467,7 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\SawedOffShotgun\Overclocks\OC_BonusesAndPenalties\OC_Penalty_Pellets-2_SawedOff`
 
 ## NUK17-Balance-v6
-* **Source**: Update 32 Hotfix 10
+* **Source**: Update 32 Hotfix 11
 
 ### Base Weapon
 * **Shot Cost**: 2 > 1

@@ -1,4 +1,4 @@
-# Flamethrower-Balance-alt-XYber-v2
+# Flamethrower-Balance-alt-XYber-v3
 * **Source**: Update 32 Hotfix 11
 
 ## Gear Modification – Tier 4 A – It Burns!
@@ -10,7 +10,7 @@
   > This increases the fear chance per fuel spent from 6.5% to 16.5% versus Glyphid Grunts and Glyphid Praetorians, increasing the chance to Fear them from ~33% to ~66% with the base flow rate.
 
 ## Overclock – Face Melter
-* **Damage**: 2 > 5
+* **Damage**: 2 > 3
   * **Class**: DamageUpgrade
   * **Property**: Amount
   * **Value Offset**: 25

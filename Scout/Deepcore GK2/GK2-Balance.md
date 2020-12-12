@@ -1,4 +1,4 @@
-# GK2-Balance-v4
+# GK2-Balance-v5
 * **Source**: Update 32 Hotfix 11
 
 ## Base Weapon

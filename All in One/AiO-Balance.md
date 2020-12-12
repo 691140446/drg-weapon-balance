@@ -1,4 +1,4 @@
-# Information
+# AiO-Balance-v1.13
 This All in One mod will contain the main changes (mostly from Silaise version when there is several possibliities) from this repository. If you wish to use any alt version, you can simply use the alt mod on top of this one, it will overwrite just the needed value and be loaded in the good order by default.
 
 # Driller
@@ -371,11 +371,11 @@ This All in One mod will contain the main changes (mostly from Silaise version w
   * **File**: `FSD\Content\WeaponsNTools\BurstFirePistol\Overclocks\OCBonusPenalty\Penalty_ClipSize_BRT`
 
 # Scout
-## GK2-Balance-v4
+## GK2-Balance-v5
 * **Source**: Update 32 Hotfix 11
 
 ### Base Weapon
-* **Max Ammo**: 350 > 420
+* **Max Ammo**: 350 > 390
   * **Class**: WPN_AssaultRifle_C
   * **Property**: MaxAmmo
   * **Value Offset**: 11886

@@ -7,6 +7,7 @@
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\Pistol\Overclocks\OC_BonusesAndPenalties\OC_Bonus_Ricochet_Pistol`
+
 ## Overclock – Tranquilizer Rounds
 * **Rate of Fire**: -4 > -2
   * **Class**: AmmoDrivenWeaponUpgrade

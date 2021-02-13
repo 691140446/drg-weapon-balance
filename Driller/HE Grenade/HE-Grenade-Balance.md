@@ -1,5 +1,5 @@
-# HE-Grenade-Balance-v2
-* **Source**: Update 32 Hotfix 11
+# HE-Grenade-Balance-v3_U33h4_P
+* **Source**: Update 33 Hotfix 4
 
 ## Base Grenade
 * **Max Grenades**: 4 > 6
@@ -7,6 +7,7 @@
   * **Property**: MaxGrenades
   * **Value Offset**: 279
   * **File**: `FSD\Content\WeaponsNTools\Grenades\HighExplosive\Grenade_HighExplosive`
+  > The number of grenade was increased to match the amount of Sticky Grenade carried by the Gunner since their stats is similar.
 * **Area Damage**: 130 > 140
   * **Class**: DamageComponent
   * **Property**: RadialDamage

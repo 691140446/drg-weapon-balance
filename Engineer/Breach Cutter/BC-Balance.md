@@ -1,5 +1,5 @@
-# BC-Balance-v7
-* **Source**: Update 32 Hotfix 11
+# BC-Balance-v8_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Gear Modification – Tier 2 A – Expanded Ammo Bags
 * **Max Ammo**: 6 > 3
@@ -12,7 +12,7 @@
 * **Area Damage**: 40 > 120
   * **Class**: DamageComponent
   * **Property**: RadialDamage
-  * **Value Offset**: 26263
+  * **Value Offset**: 24606
   * **File**: `FSD\Content\WeaponsNTools\LineCutter\PRJ_LineCutter2`
 
 ## Overclock – Stronger Plasma Current

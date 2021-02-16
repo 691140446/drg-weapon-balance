@@ -6,7 +6,7 @@ Every weapon covered will include the following:
 
 ### A .pak balance mod
 The mods are ready for use and don’t need a mod loader. To use them, just put the pak files in your ```\Steam\steamapps\common\Deep Rock Galactic\FSD\Content\Paks``` folder.<br>
-The host need to have the mod installed, it will apply for the clients as well. If the clients don’t have the mod installed, it will apply, but will display the vanilla value instead of the modded one.
+The host and clients need to have the mod installed for it to work full. If the clients don’t have the mod installed, it will apply, but will display the vanilla value instead of the modded one and some of the changes won’t apply (mostly changes to the PRJ_ files).
 
 ### A .md readme file
 This file should list any change made for that weapon, its gear modifications and overclocks.

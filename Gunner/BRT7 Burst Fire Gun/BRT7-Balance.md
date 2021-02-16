@@ -1,5 +1,5 @@
-# BRT7-Balance-v5
-* **Source**: Update 32 Hotfix 11
+# BRT7-Balance-v6_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Overclock – Full Chamber Seal
 * **Damage**: 1 > 2
@@ -12,6 +12,7 @@
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\BurstFirePistol\Overclocks\OCBonusPenalty\Bonus_ReloadTime_BRT`
+  > Theses changes aim to buff a bit this OC to allow it to compete with the other clean OC Composite Casings.
 
 ## Overclock – Electro Minelets
 * **DoT Duration**: 2 > 6
@@ -19,11 +20,9 @@
   * **Property**: Duration
   * **Value Offset**: 352
   * **File**: `FSD\Content\WeaponsNTools\BurstFirePistol\Overclocks\OCBonusPenalty\STE_Electric_BurstPistolMines`
-* ** DoT Duration**: 2 > 6
-  * **Value Offset**: 352
-  * **File**: `FSD\Content\WeaponsNTools\BurstFirePistol\Overclocks\OCBonusPenalty\STE_Electric_BurstPistolMines.uexp`
 * **Magazine Size**: -6 > -12
   * **Class**: AmmoDrivenWeaponUpgrade
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\BurstFirePistol\Overclocks\OCBonusPenalty\Penalty_ClipSize_BRT`
+  > Theses changes allow for a much better crowd control without increasing the dps too much.

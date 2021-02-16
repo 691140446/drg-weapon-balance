@@ -1,5 +1,5 @@
-# Stubby-Balance-v2
-* **Source**: Update 32 Hotfix 11
+# Stubby-Balance-v3_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Overclock – Turret EM Discharge
 * **Damage**: -3 > -2

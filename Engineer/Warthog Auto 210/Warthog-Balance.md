@@ -1,5 +1,5 @@
-# Warthog-Balance-v3
-* **Source**: Update 32 Hotfix 11
+# Warthog-Balance-v4_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Base Weapon
 * **Max Ammo**: 90 > 105

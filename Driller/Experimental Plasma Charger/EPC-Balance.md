@@ -1,5 +1,5 @@
-# EPC-Balance-v9_U33h4_P
-* **Source**: Update 33 Hotfix 4
+# EPC-Balance-v9_U33H5_P
+* **Source**: Update 33 Hotfix 5
 > The changes on this weapon are heavily focused on the Flying Nightmare mod.<br>
 > Increasing the Charged Shot damage by 20% allows to reach the Glyphid Grunt breakpoint with a full damage build and using Overcharger on top of that allows to reach the Mactera Spawn breakpoint thanks to the change on the damage conversion.<br>
 > Alternatively reducing the charged shot cost to 0.7 opens builds lower damage and a wider radius, chaining two shots since the weapon doesn’t overheat instantly.

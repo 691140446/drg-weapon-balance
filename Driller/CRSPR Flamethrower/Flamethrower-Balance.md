@@ -1,5 +1,5 @@
-# Flamethrower-Balance-v7_U33h4_P
-* **Source**: Update 33 Hotfix 4
+# Flamethrower-Balance-v7_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Gear Modification – Tier 4 A – It Burns!
 * **Fear Factor**: 0.13 > 0.2

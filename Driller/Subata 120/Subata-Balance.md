@@ -1,5 +1,5 @@
-# Subata-Balance-v4_U33h4_P
-* **Source**: Update 33 Hotfix 4
+# Subata-Balance-v4_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Overclock – Chain Hit
 * **Ricochet Chance (Weakpoint only)**: 0.5 > 0.66

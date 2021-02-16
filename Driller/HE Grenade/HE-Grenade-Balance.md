@@ -1,5 +1,5 @@
-# HE-Grenade-Balance-v3_U33h4_P
-* **Source**: Update 33 Hotfix 4
+# HE-Grenade-Balance-v3_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Base Grenade
 * **Max Grenades**: 4 > 6

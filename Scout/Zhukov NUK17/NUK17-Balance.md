@@ -1,31 +1,31 @@
-# NUK17-Balance-v6
-* **Source**: Update 32 Hotfix 11
+# NUK17-Balance-v7_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Base Weapon
 * **Shot Cost**: 2 > 1
   * **Class**: WPN_DualMPs_C
   * **Property**: ShotCost
-  * **Value Offset**: 11562
+  * **Value Offset**: 11624
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs`
-  > To change the shot cost from 2 to 1.
+  > To change the shot cost from 2 to 1, so we can display the real ammo count of the weapon., most of the changes below are a direct consequence of this.
 * **Max Ammo**: 600 > 300
   * **Class**: WPN_DualMPs_C
   * **Property**: MaxAmmo
-  * **Value Offset**: 11504
+  * **Value Offset**: 11566
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs`
   > Halved the Max Ammo to match the shot cost reduction.
 * **Clip Size**: 50 > 25
   * **Class**: WPN_DualMPs_C
   * **Property**: ClipSize
-  * **Value Offset**: 11533
+  * **Value Offset**: 11595
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs`
   > Halved the Clip Size to match the shot cost reduction.
 * **Max Horizontal Spread**: 36 > 29
   * **Class**: HitscanComponent
   * **Property**: MaxHorizontalSpread
-  * **Value Offset**: 16202
+  * **Value Offset**: 16325
   * **File**: `FSD\Content\WeaponsNTools\DualMachinePistols\WPN_DualMPs`
-  > To reduce base spread by ~20%.
+  > To reduce base spread by ~20%, hopefully the T3 precision mod won’t feel like a must have in most build now.
 
 ## Gear Modification – Tier 1 A – Expanded Ammo Bags
 * **Max Ammo**: 100 > 50

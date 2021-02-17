@@ -1,7 +1,7 @@
-# Minigun-Balance-v6_U33H5_P
+## Minigun-Balance-v6_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## Overclock – Bullet Hell
+### Overclock – Bullet Hell
 * **Ricochet Chance**: 0.5 > 0.75
   * **Class**: HitscanBaseUpgrade
   * **Property**: Amount

@@ -1,7 +1,7 @@
-# Boomstick-Balance-v4_U33H5_P
+## Boomstick-Balance-v4_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## Overclock – Shaped Shells
+### Overclock – Shaped Shells
 * **Base Spread**: 0.65 > 0.55
   * **Class**: HitscanBaseUpgrade
   * **Property**: Amount

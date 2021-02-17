@@ -1,7 +1,7 @@
-# GK2-Balance-v6_U33H5_P
+## GK2-Balance-v6_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## Base Weapon
+### Base Weapon
 * **Max Ammo**: 350 > 420
   * **Class**: WPN_AssaultRifle_C
   * **Property**: MaxAmmo
@@ -13,21 +13,21 @@
   * **Value Offset**: 11941
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\WPN_AssaultRifle`
 
-## Gear Modification – Tier 2 B – Expanded Ammo Bags
+### Gear Modification – Tier 2 B – Expanded Ammo Bags
 * **Max Ammo**: 100 > 90
   * **Class**: AmmoDrivenWeaponUpgrade
   * **Property**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\UPG_AssaultRifle_MaxAmmo`
 
-## Gear Modification – Tier 3 C – High Capacity Magazine
+### Gear Modification – Tier 3 C – High Capacity Magazine
 * **Clip Size**: 10 > 5
   * **Class**: AmmoDrivenWeaponUpgrade
   * **Property**: Amount
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\UPG_AssaultRifle_ClipSize`
 
-## Overclock – Electrifying Reload
+### Overclock – Electrifying Reload
 * **Damage**: -3 > -2
   * **Class**: DamageUpgrade
   * **Property**: Amount

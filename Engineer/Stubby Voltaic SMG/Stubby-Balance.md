@@ -1,7 +1,7 @@
-# Stubby-Balance-v3_U33H5_P
+## Stubby-Balance-v3_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## Overclock – Turret EM Discharge
+### Overclock – Turret EM Discharge
 * **Damage**: -3 > -2
   * **Class**: DamageUpgrade
   * **Property**: Amount

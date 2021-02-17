@@ -1,7 +1,7 @@
-# Sentry-Balance-v7_U33H5_P
+## Sentry-Balance-v7_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## "Warthog" Auto 210 – Gear Modification – Tier 5 A – Turret Whip
+### "Warthog" Auto 210 – Gear Modification – Tier 5 A – Turret Whip
 * **Radius**: 150 > 200
   * **Class**: DamageComponent
   * **Property**: DamageRadius
@@ -24,7 +24,7 @@
   * **File**: `FSD\Content\WeaponsNTools\SentryGun\SentryGun_Engineer\PRJ_SentryOvercharge_Projectile`
   > Increased radius so the AoE will be a bit more useful. The Projectile Speed has been increased, making it a lot easier to hit the intended target.
 
-## "Stubby" Voltaic SMG – Overclock – Turret Arc
+### "Stubby" Voltaic SMG – Overclock – Turret Arc
 * **Duration**: 15 > 20
   * **Class**: BP_EletrocutedSentry_C
   * **Property**: InitialLifeSpan
@@ -44,7 +44,7 @@
   > Since it is based on the Electrocrystal file, this will increase their damage as well.<br>
   > Increased the damage from 20 to 35 per second (interval is 0.2), allowing it to kill a grunt in 3.2s and a slasher in 5.2s in hazard 4+.
 
-## "Stubby" Voltaic SMG – Overclock – Turret EM Discharge
+### "Stubby" Voltaic SMG – Overclock – Turret EM Discharge
 * **Area Damage**: 40 > 60
   * **Class**: DamageComponent
   * **Property**: RadialDamage

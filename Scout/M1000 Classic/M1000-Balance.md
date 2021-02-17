@@ -1,7 +1,7 @@
-# M1000-Balance-v6_U33H5_P
+## M1000-Balance-v6_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## Base Weapon
+### Base Weapon
 * **Weakpoint Damage Multiplier**: 1.1 > 1.2
   * **Class**: DamageComponent
   * **Property**: WeakpointDamageMultiplier
@@ -9,7 +9,7 @@
   * **File**: `FSD\Content\WeaponsNTools\BoltActionRifle\WPN_M1000`
   > Increasing the weakpoint damage as much as possible without allowing to reach the Mactera Spawn breakpoint on non focused shot.
 
-## Overclock – Hipster
+### Overclock – Hipster
 * **Max Ammo (Multiplier)**: 1.75 > 1.25
   * **Class**: AmmoDrivenWeaponUpgrade
   * **Property**: Amount
@@ -29,7 +29,7 @@
   > Some other interesting breakpoints can be reached, like web spitters depending on T1 and T4 choice.<br>
   > The total potential damage per ressupply with Hipster is the same than the base weapon (without OC), no matter the mod choice, that mean Minimal clip will be more efficient in term of damage per resupply, but Hipster could allow for more kills and be more comfy depending on your build.
 
-## Overclock – Supercooling Chamber
+### Overclock – Supercooling Chamber
 * **Focused Shot Damage Bonus**: 1.25 > 1.65
   * **Class**: BoltActionRifleUpgrade
   * **Property**: Amount

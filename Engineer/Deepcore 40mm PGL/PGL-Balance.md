@@ -1,7 +1,7 @@
-# PGL-Balance-v4_U33H5_P
+## PGL-Balance-v4_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
-## Base Weapon
+### Base Weapon
 * **Area Damage**: 110 > 125
   * **Class**: DamageComponent
   * **Property**: RadialDamage
@@ -20,7 +20,7 @@
   * **File**: `FSD\Content\WeaponsNTools\GrenadeLauncher\PRJ_GrenadeLauncher`
   > This change allow to have a guarantee minimum damage even when using an explosive build. In vanilla some build could fail to kill even a swarmer at the edge of the radius.
 
-## Gear Modification – Tier 1 A – HE Compound
+### Gear Modification – Tier 1 A – HE Compound
 * **Area Damage**: 15 > 20
   * **Class**: DamageUpgrade
   * **Property**: Amount
@@ -28,7 +28,7 @@
   * **File**: `FSD\Content\WeaponsNTools\GrenadeLauncher\UPG_GrenadeLauncher_A_Damage`
   > Changed to match the T2 B Area Damage mod.
 
-## Gear Modification – Tier 2 A – Larger Payload
+### Gear Modification – Tier 2 A – Larger Payload
 * **Max Ammo**: 3 > 2
   * **Class**: AmmoDrivenWeaponUpgrade
   * **Property**: Amount
@@ -36,7 +36,7 @@
   * **File**: `FSD\Content\WeaponsNTools\GrenadeLauncher\UPG_GrenadeLauncher_B_Ammo`
   > Changed to match the T1 B Ammo mod.
 
-## Overclock – Compact Rounds
+### Overclock – Compact Rounds
 * **Max Ammo**: 4 > 5
   * **Class**: AmmoDrivenWeaponUpgrade
   * **Property**: Amount

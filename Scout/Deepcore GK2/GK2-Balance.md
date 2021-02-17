@@ -1,16 +1,16 @@
-# GK2-Balance-v5
-* **Source**: Update 32 Hotfix 11
+# GK2-Balance-v6_U33H5_P
+* **Source**: Update 33 Hotfix 5
 
 ## Base Weapon
 * **Max Ammo**: 350 > 420
   * **Class**: WPN_AssaultRifle_C
   * **Property**: MaxAmmo
-  * **Value Offset**: 11886
+  * **Value Offset**: 11912
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\WPN_AssaultRifle`
 * **Clip Size**: 25 > 30
   * **Class**: WPN_AssaultRifle_C
   * **Property**: ClipSize
-  * **Value Offset**: 11915
+  * **Value Offset**: 11941
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\WPN_AssaultRifle`
 
 ## Gear Modification – Tier 2 B – Expanded Ammo Bags
@@ -33,3 +33,4 @@
   * **Property**: Amount
   * **Value Offset**: 25
   * **File**: `FSD\Content\WeaponsNTools\AssaultRifle\Overclocks\OC_BonusesAndPenalties\OC_Penalty_DMG_25P_Assault`
+  > Reduced the Damage penalty, allowing to reach the Swarmer breakpoint with more builds.

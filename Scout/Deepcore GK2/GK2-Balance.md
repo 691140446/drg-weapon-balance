@@ -1,8 +1,8 @@
-## GK2-Balance-v6_U33H5_P
+## GK2-Balance-v7_U33H5_P
 * **Source**: Update 33 Hotfix 5
 
 ### Base Weapon
-* **Max Ammo**: 350 > 420
+* **Max Ammo**: 350 > 490
   * **Class**: WPN_AssaultRifle_C
   * **Property**: MaxAmmo
   * **Value Offset**: 11912

@@ -1,4 +1,4 @@
-# AiO-Balance-v1.13
+# AiO-Balance-v1.15_U33H5_P
 <!-- This All in One mod will contain the main changes (mostly from Silaise version when there is several possibliities) from this repository. If you wish to use any alt version, you can simply use the alt mod on top of this one, it will overwrite just the needed value and be loaded in the good order by default. -->
 
 ## Flamethrower-Balance-v7_U33H5_P
@@ -25,6 +25,23 @@
   * **Value Offset**: 66
   * **File**: `FSD\Content\WeaponsNTools\FlameThrower\Overclocks\OC_BonusesAndPenalties\Bonus_RoF_Flamethrower`
   > The Face Melter changes aim to keep a dps similar to the live version while keeping a decent ammo economy.
+
+# Cryo-Cannon-Balance-v1_U33H5_P
+* **Source**: Update 33 Hotfix 5
+
+## Base Weapon
+* **Cold Damage (Temperature)**: 8 > 7
+  * **Class**: FlatDamageBonus
+  * **Property**: Damage
+  * **Value Offset**: 20401
+  * **File**: `FSD\Content\WeaponsNTools\Cryospray\WPN_Cryospray`
+
+## Gear Modification – Tier 4 B – Supercooling Mixture
+* **Cold Damage (Temperature)**: 1 > 2
+  * **Class**: FlatDamageUpgrade
+  * **Property**: Damage
+  * **Value Offset**: 25
+  * **File**: `FSD\Content\WeaponsNTools\Cryospray\UPG_Cryospray_D_Cooling`
 
 ## Subata-Balance-v4_U33H5_P
 * **Source**: Update 33 Hotfix 5

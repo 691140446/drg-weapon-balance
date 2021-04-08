@@ -2,7 +2,7 @@
 * **Source**: Update 33 Hotfix 5
 
 ### Overclock – Shaped Shells
-* **Base Spread**: 0.65 > 0.55
+* **Base Spread**: 0.65 > 0.77
   * **Class**: HitscanBaseUpgrade
   * **Property**: Amount
   * **Value Offset**: 66
